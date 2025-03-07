@@ -1,0 +1,38 @@
+.site-logo{
+  max-width: 5rem;
+}
+
+.site-title{
+  font-size: 1.3rem;
+  color: white;
+}
+
+.investments-table-section{
+  color: white;
+  width: 100%;
+}
+
+.investments-table-section table{
+  border-collapse: separate;
+  border-spacing: 0.8rem;
+  background-color: inherit !important; 
+}
+
+.investments-table-section table > thead, tbody{
+  border: 0;
+  color: white;
+  background-color: inherit;
+}
+
+.investments-table-section table td, th{
+  text-align: end;
+}
+
+.investments-table-section table th{
+  font-size: 0.8rem;
+  color: rgb(62, 190, 164);
+}
+
+.investments-table-section table td{
+  font-size: 0.8rem;
+}
